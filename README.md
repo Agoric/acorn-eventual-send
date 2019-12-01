@@ -1,5 +1,6 @@
-# Acorn Wavy Dot
+# Moved
 
-This Acorn parser plugin understands wavy dot (eventual send syntax).
-
-See the ECMAScript Proposal [proposal-wavy-dot](https://github.com/Agoric/proposal-wavy-dot).
+This code has been moved into the `packages/acorn-eventual-send`
+[subdirectory](https://github.com/Agoric/agoric-sdk/tree/master/packages/acorn-eventual-send)
+of the monorepo in https://github.com/Agoric/agoric-sdk . All future
+development should happen there.
